@@ -19,14 +19,14 @@ Go library and CLI for classical cryptography and cryptanalysis — historical c
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://itakawam-readme-stats.vercel.app/api?username=itakawam&show=reviews&show_icons=true&theme=dark&hide_border=true" />
-  <img height="230" alt="GitHub stats"
+  <img height="160" alt="GitHub stats"
     src="https://itakawam-readme-stats.vercel.app/api?username=itakawam&show=reviews&show_icons=true&theme=light&hide_border=true" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://itakawam-readme-stats.vercel.app/api/top-langs/?username=itakawam&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&hide_border=true" />
-  <img height="230" alt="Top languages"
+  <img height="160" alt="Top languages"
     src="https://itakawam-readme-stats.vercel.app/api/top-langs/?username=itakawam&size_weight=0.5&count_weight=0.5&layout=compact&theme=light&hide_border=true" />
 </picture>
 
