@@ -11,7 +11,13 @@ Currently obsessed with: `Go Development` • `Cryptography` • `TUI Apps` • 
 
 Go library and CLI for classical cryptography and cryptanalysis — historical cipher implementations with file processing and concurrent operations.
 
-**Stack:** `Cobra-CLI` • `TypeScript`
+**Stack:** `Go` • `Cobra-CLI`
+
+### [docker-time-analysis](https://github.com/ItakawaM/docker-time-analysis)
+
+Statistical analysis tool for Docker container startup times using regression modeling and interactive visualizations.
+
+**Stack:** `Go` • `Gonum` • `TypeScript` •  `Svelte` • `Apache ECharts`
 
 ## ☕ stats
 <div align="center">
@@ -34,5 +40,6 @@ Go library and CLI for classical cryptography and cryptanalysis — historical c
 
 ## 📚 languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
